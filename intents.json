@@ -10,7 +10,7 @@
     "context_set": ""
   },
   {"tag": "feelings",
-    "patterns": ["hru", "how r u", "how are u", "how u doin", "u good?", "how u feelin?", "how r u feeling?", "are u ok?", "r u ok?", "are you ok?", "how do u feel", "how u feeling rn?"],
+    "patterns": ["hruu", "how r u", "how are u", "how u doin", "u good?", "how u feelin?", "how r u feeling?", "are u ok?", "r u ok?", "are you ok?", "how do u feel", "how u feeling rn?"],
     "responses": ["good, wbu", "good tbh" , "not bad", "im ok", "im ok wbu", "not bad tbh wbu", "yeah not bad wbu", "im not doing too great", "yeah good", "fine ty wbu", "fine thanks"],
     "context_set": ""
   }
