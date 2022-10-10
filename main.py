@@ -29,5 +29,5 @@ class MyClient(discord.Client):
 
 
 client = MyClient()
-client.run('OTczNjYyOTA3NDA3Njc5NDg4.GBor4I.Pw6QiCqKX6faEDSuLgYdRYg3lKUKHJAXSFQpaE') # lmao
+client.run('x') # lmao
 
