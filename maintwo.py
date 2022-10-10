@@ -25,4 +25,4 @@ class MyClientT(discord.Client):
             await message.channel.send(response)
 
 client = MyClientT()
-client.run('OTk3ODY5MDAyMzU5NTc4NzE0.GG9c5r.A5Km4q7G2UOh87csxAj0qaScipl334twnkk0Qo') # sage
+client.run('x') # sage
