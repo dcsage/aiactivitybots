@@ -1,18 +1,1 @@
-{"intents": [
-  {"tag": "greeting",
-    "patterns": ["yo","wsg","sup","hey","hi","hello","howdy","heya","heklo","wsp","whats up","hei"],
-    "responses": ["yo","wsg","sup","hey","hi","hello","howdy","heya","heklo","wsp","whats up","hei","yo","yoo","wsg","wsgg","wys","hi","hey"],
-    "context_set": ""
-  },
-  {"tag": "startquestion",
-    "patterns": ["yo","wsg","sup","hey","hi","hello","howdy","heya","heklo","wsp","whats up","hei","yo","yoo","wsg","wsgg","wys","hi","hey"],
-    "responses": ["hey hru", "yo how u doin", "how u feeling?"],
-    "context_set": ""
-  },
-  {"tag": "feelings",
-    "patterns": ["hruu", "how r u", "how are u", "how u doin", "u good?", "how u feelin?", "how r u feeling?", "are u ok?", "r u ok?", "are you ok?", "how do u feel", "how u feeling rn?"],
-    "responses": ["good, wbu", "good tbh" , "not bad", "im ok", "im ok wbu", "not bad tbh wbu", "yeah not bad wbu", "im not doing too great", "yeah good", "fine ty wbu", "fine thanks"],
-    "context_set": ""
-  }
-]
-}
+Intents file is secret cause its alot
