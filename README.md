@@ -1,8 +1,4 @@
-# aiactivitybots
-user accounts that will simulate legit chat in a discord server
+# discontinued
+the public version is discontinued
 
-# info
-
-- this is a project in a very early state
-- do not use this because it is terrible currently
-- it should be done on the 15/10/22
+private version currently in development
